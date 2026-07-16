@@ -1,6 +1,5 @@
-# Cybersecurity Portfolio — emirdev.online
+# Cybersecurity Portfolio Website — 
 
-My personal portfolio site, built as a single-page terminal-style experience. Live at [emirdev.online](https://emirdev.online).
 
 ## About
 
